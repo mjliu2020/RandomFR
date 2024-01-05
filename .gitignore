@@ -1,0 +1,7 @@
+__pycache__
+*.pth
+*.pyc
+*.cpython-37.pyc
+Code/__pycache__
+Code/model/__pycache__
+.idea
